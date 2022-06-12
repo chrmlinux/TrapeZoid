@@ -1,0 +1,6 @@
+TrapeZoid KEYWORD1 TrapeZoid
+tz      	KEYWORD1 TrapeZoid
+begin		  KEYWORD2
+end			  KEYWORD2
+set			  KEYWORD2
+update		KEYWORD2
