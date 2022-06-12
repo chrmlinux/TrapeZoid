@@ -10,7 +10,7 @@ static extendFor ef;
 
 void setup(void)
 {
-  Serial.begin( 115200 ); while(!Serial);
+  Serial.begin( 115200 ); while (!Serial);
   ef.begin();
   tz.begin(MAXCNT);
 }
