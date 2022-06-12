@@ -1,4 +1,4 @@
-# TrapeZiod
+# TrapeZoid
 trapezoidal control using moving average
 
 ![capt01](https://github.com/chrmlinux/TrapeZoid/blob/main/doc/capt01.JPG)
